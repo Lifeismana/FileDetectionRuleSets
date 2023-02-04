@@ -184,6 +184,11 @@ class FileDetector
 			return $Count;
 		};
 
+		if( $has( 'Evidence.LIBLIST' ) && $not( 'Evidence.SCRIPTS_LIBLIST' ) )
+		{
+			return 'Engine.GoldSource';
+		}
+
 		if( $has( 'Evidence.ARC' ) && $has( 'Evidence.TAB' ) )
 		{
 			return 'Engine.ApexEngine';

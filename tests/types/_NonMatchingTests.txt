@@ -136,8 +136,8 @@ binbsppack.dll
 liblist
 liblist.txt
 liblist.game
-hl2/scripts/liblist.gam
-tf/scripts/liblist.gam
+hl2/script/liblist.game
+tf/scripts/liblist_gam
 nvngx_dlssddll
 nvngx_dlss.dlli
 envngx_dlss.dll

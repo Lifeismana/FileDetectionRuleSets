@@ -1,0 +1,4 @@
+/scripts/liblist.gam
+ship/scripts/liblist.gam
+portal2/scripts/liblist.gam
+scripts/liblist.gam
