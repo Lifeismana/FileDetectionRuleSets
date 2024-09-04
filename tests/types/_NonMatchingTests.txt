@@ -935,6 +935,9 @@ gamexdmanifest
 game.dmanifestfdfd
 pfdfdfgame.gmanifest
 Sub/Folder/game.dmanifestfdfdfdf
+Mware.dl
+Mware_dll
+ware.dll
 dieselx_cfg
 dieselx.cf
 ieselx.cfg
